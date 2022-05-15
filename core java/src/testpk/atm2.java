@@ -1,5 +1,6 @@
 package testpk;
-abstract class dataabst
+
+abstract class Atm2
 {
 	abstract void withdraw();
 	
